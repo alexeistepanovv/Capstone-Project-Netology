@@ -1,0 +1,1 @@
+This is just my capstone project for "Python for Data Analytics" course on Netology. Course link: https://netology.ru/programs/python-for-analytics?utm_source=advcake&utm_medium=cpa&utm_campaign=cityads&utm_content=2Keh&utm_term=8QTZ218ecfZjTXT&stop=1
